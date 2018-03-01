@@ -10,8 +10,8 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:
-Partner Right:
+Partner Left:  
+Partner Right:  
 
 ---
 
