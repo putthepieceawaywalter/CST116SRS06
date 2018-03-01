@@ -45,8 +45,11 @@ You should now have 2 sets of data and 2 functions.
 Run all 4 combinations in one program and test that the Sample Standard Deviation functions both produce the same results for the same data set. This means you will have 2 tests, one for each set of data.  
 
 You should compare your results with your partners. They should produce the same results. If not, work out why.  
-e
+
 On your assignment be sure to indicate your left and right partner in this README.md file. This is important and failing to do so will not allow me to check your work possibly resulting in a zero grade.  
 
 Proper submission is extremely important, so be sure to look over the guidelines. You should confirm your submission is correct with the instructor if you have any doubts.  
 
+For help with formulas, here is a site that might help you:
+
+https://www.mathsisfun.com/data/standard-deviation-formulas.html
