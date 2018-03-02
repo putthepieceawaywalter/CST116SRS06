@@ -24,6 +24,8 @@ Practice your previously learned skills in a group situation.
 
 Instructions:  
 
+Name your project "SSD".  
+
 This is a project you will work on with a group of 3 (or 4) students.  
 
 If you have 4 students, you will need to arrange yourselves into a square. The person on your left and right are your immediate partners. Groups of 3 will already have a left and right partner.  
