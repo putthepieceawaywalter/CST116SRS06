@@ -2,22 +2,19 @@
 #include <cmath>
 #include <iostream>
 
-double ssd(int incomingArray[], const int arraySize)
+double ssd(const int arraySize, const int incomingArray[])
 {
-	double total = 0;
-	for (int a = 0; a < arraySize; a++) {
+	double total{ 0.0 };
+	for (int a{ 0 }; a != arraySize; a++) {
 		total += incomingArray[a];
-
 	}
 	double mean = total / arraySize;
-	double c = 0;
-	for (int a = 0; a < arraySize; a++) {
+	double total1{ 0 };
+	for (int a{ 0 }; a != arraySize; a++) {
 		double b = incomingArray[a] - mean;
-		c += b * b;
-
+		total1 += b * b;
 	}
-
-	double mean1{ c / (arraySize - 1) };
+	double mean1{ total1 / (arraySize - 1) };
 	double patrickAnswer = sqrt(mean1);
 	return patrickAnswer;
 }
