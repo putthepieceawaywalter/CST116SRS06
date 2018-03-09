@@ -2,17 +2,19 @@
 SSD
 
 
-Class ID:  
+Class ID: Feebas
 
 SRS ID: CST116SRS06  
 
 Unresolved Issues:  
 
-Notes:  
+Notes: Everything went smooth as far as working together and our program came together pretty quickly and relatively easily.
+I think I lucked out with great groupmates.
 
-Partner Left:  
 
-Partner Right:  
+Partner Left: Ferroseed
+
+Partner Right: Cottonee
 
 ---
 
